@@ -1,9 +1,3 @@
-//
-//  SignUpView.swift
-//  Lesson10HW
-//
-
-//
 
 import UIKit
 
